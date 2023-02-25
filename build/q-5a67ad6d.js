@@ -1,0 +1,1 @@
+const e={text:"Guide",items:[{text:"Home",items:[{text:"Home",href:"/"},{text:"About Us",href:"#"},{text:"Pricing",href:"/pages/pricing"},{text:"Products",href:"/pages/products"}]}]};export{e as default};

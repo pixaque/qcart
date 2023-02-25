@@ -1,0 +1,1224 @@
+{
+  "symbols": {
+    "s_0yRBIS4eVf0": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "genePagi_li_a_onClick_1",
+      "canonicalFilename": "s_0yrbis4evf0",
+      "hash": "0yRBIS4eVf0",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": null
+    },
+    "s_JPn7Nku6XUY": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "genePagi_li_a_onClick",
+      "canonicalFilename": "s_jpn7nku6xuy",
+      "hash": "JPn7Nku6XUY",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": null
+    },
+    "s_0qn0UqXuFIA": {
+      "origin": "components/cart/cart.tsx",
+      "displayName": "Display_component__Fragment_div_table_tbody_tr_td_a_onClick",
+      "canonicalFilename": "s_0qn0uqxufia",
+      "hash": "0qn0UqXuFIA",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_Rgv8850Dk0g"
+    },
+    "s_4EzARyMkCeg": {
+      "origin": "components/cart/cart.tsx",
+      "displayName": "cart_component_div_div_div_a_onClick",
+      "canonicalFilename": "s_4ezarymkceg",
+      "hash": "4EzARyMkCeg",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_H8FC6wH9sRU"
+    },
+    "s_4XQnc4s3D88": {
+      "origin": "components/cart/backup-tsx.tsx",
+      "displayName": "Display_component__Fragment_div_table_tbody_tr_td_a_onClick",
+      "canonicalFilename": "s_4xqnc4s3d88",
+      "hash": "4XQnc4s3D88",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_yMFE656dyIQ"
+    },
+    "s_EA0ZiG5Amqc": {
+      "origin": "components/cart/cart.tsx",
+      "displayName": "cart_component_div_div_div_button_onClick",
+      "canonicalFilename": "s_ea0zig5amqc",
+      "hash": "EA0ZiG5Amqc",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": false,
+      "parent": "s_H8FC6wH9sRU"
+    },
+    "s_FL0TtY3F92s": {
+      "origin": "routes/pages/products/sku/[sku]/index.tsx",
+      "displayName": "ProductPreview_component_div_div_div_a_onClick",
+      "canonicalFilename": "s_fl0tty3f92s",
+      "hash": "FL0TtY3F92s",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_BtMFHlp6r4g"
+    },
+    "s_f5D6szBYxpU": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "ProductPagination_component_nav_ul_li_a_onClick",
+      "canonicalFilename": "s_f5d6szbyxpu",
+      "hash": "f5D6szBYxpU",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_UuM3FMJ0nKQ"
+    },
+    "s_hA9UPaY8sNQ": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component_a_onClick",
+      "canonicalFilename": "s_ha9upay8snq",
+      "hash": "hA9UPaY8sNQ",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_mYsiJcA4IBc"
+    },
+    "s_sBmiu3SsFfI": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "ProductPagination_component_nav_ul_li_a_onClick_1",
+      "canonicalFilename": "s_sbmiu3ssffi",
+      "hash": "sBmiu3SsFfI",
+      "ctxKind": "event",
+      "ctxName": "onClick$",
+      "captures": true,
+      "parent": "s_UuM3FMJ0nKQ"
+    },
+    "s_skxgNVWVOT8": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component_a_onMouseOver",
+      "canonicalFilename": "s_skxgnvwvot8",
+      "hash": "skxgNVWVOT8",
+      "ctxKind": "event",
+      "ctxName": "onMouseOver$",
+      "captures": false,
+      "parent": "s_mYsiJcA4IBc"
+    },
+    "s_DLwaEirNkmw": {
+      "origin": "components/cart/backup-tsx.tsx",
+      "displayName": "Display_component__Fragment_div_table_tbody_tr_td_div_div_div_input_onInput",
+      "canonicalFilename": "s_dlwaeirnkmw",
+      "hash": "DLwaEirNkmw",
+      "ctxKind": "event",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_yMFE656dyIQ"
+    },
+    "s_k7p8Qbb0ZrU": {
+      "origin": "components/cart/cart.tsx",
+      "displayName": "Display_component__Fragment_div_table_tbody_tr_td_div_div_div_input_onInput",
+      "canonicalFilename": "s_k7p8qbb0zru",
+      "hash": "k7p8Qbb0ZrU",
+      "ctxKind": "event",
+      "ctxName": "onInput$",
+      "captures": true,
+      "parent": "s_Rgv8850Dk0g"
+    },
+    "s_uVE5iM9H73c": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component_a_onQVisible",
+      "canonicalFilename": "s_uve5im9h73c",
+      "hash": "uVE5iM9H73c",
+      "ctxKind": "event",
+      "ctxName": "onQVisible$",
+      "captures": false,
+      "parent": "s_mYsiJcA4IBc"
+    },
+    "s_3cwrkbtB9UI": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "products_component",
+      "canonicalFilename": "s_3cwrkbtb9ui",
+      "hash": "3cwrkbtB9UI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_5mpKg8LO4Yo": {
+      "origin": "components/menu/menu1.tsx",
+      "displayName": "menu1_component",
+      "canonicalFilename": "s_5mpkg8lo4yo",
+      "hash": "5mpKg8LO4Yo",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_9AkOlFL4o4U": {
+      "origin": "routes/layout.tsx",
+      "displayName": "layout_component",
+      "canonicalFilename": "s_9akolfl4o4u",
+      "hash": "9AkOlFL4o4U",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_BtMFHlp6r4g": {
+      "origin": "routes/pages/products/sku/[sku]/index.tsx",
+      "displayName": "ProductPreview_component",
+      "canonicalFilename": "s_btmfhlp6r4g",
+      "hash": "BtMFHlp6r4g",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_H8FC6wH9sRU": {
+      "origin": "components/cart/cart.tsx",
+      "displayName": "cart_component",
+      "canonicalFilename": "s_h8fc6wh9sru",
+      "hash": "H8FC6wH9sRU",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_KSbnYirXuGM": {
+      "origin": "routes/pages/products/sku/[sku]/index.tsx",
+      "displayName": "Carousel_component",
+      "canonicalFilename": "s_ksbnyirxugm",
+      "hash": "KSbnYirXuGM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_NXeEGWV2ZjE": {
+      "origin": "routes/pages/about-us/index.tsx",
+      "displayName": "about_us_component",
+      "canonicalFilename": "s_nxeegwv2zje",
+      "hash": "NXeEGWV2ZjE",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_OD0SUFJhWBg": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "ProductPreview_component",
+      "canonicalFilename": "s_od0sufjhwbg",
+      "hash": "OD0SUFJhWBg",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_Rgv8850Dk0g": {
+      "origin": "components/cart/cart.tsx",
+      "displayName": "Display_component",
+      "canonicalFilename": "s_rgv8850dk0g",
+      "hash": "Rgv8850Dk0g",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_UuM3FMJ0nKQ": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "ProductPagination_component",
+      "canonicalFilename": "s_uum3fmj0nkq",
+      "hash": "UuM3FMJ0nKQ",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_ZzsY4z095kk": {
+      "origin": "components/menu/menu.tsx",
+      "displayName": "menu_component",
+      "canonicalFilename": "s_zzsy4z095kk",
+      "hash": "ZzsY4z095kk",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_crp5PYqmBUM": {
+      "origin": "routes/index.tsx",
+      "displayName": "routes_component",
+      "canonicalFilename": "s_crp5pyqmbum",
+      "hash": "crp5PYqmBUM",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_gfgbsab0fbw": {
+      "origin": "components/header/header.tsx",
+      "displayName": "header_component",
+      "canonicalFilename": "s_gfgbsab0fbw",
+      "hash": "gfgbsab0fbw",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_gytQY3Tt2No": {
+      "origin": "components/footer/footer.tsx",
+      "displayName": "footer_component",
+      "canonicalFilename": "s_gytqy3tt2no",
+      "hash": "gytQY3Tt2No",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_hqUiiBgUFWw": {
+      "origin": "routes/pages/products/sku/[sku]/index.tsx",
+      "displayName": "_sku__component",
+      "canonicalFilename": "s_hquiibgufww",
+      "hash": "hqUiiBgUFWw",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_juzXls7GlsE": {
+      "origin": "routes/pages/features/index.tsx",
+      "displayName": "features_component",
+      "canonicalFilename": "s_juzxls7glse",
+      "hash": "juzXls7GlsE",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_mYsiJcA4IBc": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "Link_component",
+      "canonicalFilename": "s_mysijca4ibc",
+      "hash": "mYsiJcA4IBc",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_nd8yk3KO22c": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "RouterOutlet_component",
+      "canonicalFilename": "s_nd8yk3ko22c",
+      "hash": "nd8yk3KO22c",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_oqkL64zfQvc": {
+      "origin": "routes/pages/pricing/index.tsx",
+      "displayName": "pricing_component",
+      "canonicalFilename": "s_oqkl64zfqvc",
+      "hash": "oqkL64zfQvc",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_soKes0GhrEY": {
+      "origin": "routes/pages/faqs/index.tsx",
+      "displayName": "faqs_component",
+      "canonicalFilename": "s_sokes0ghrey",
+      "hash": "soKes0GhrEY",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_u08aSmrVmvc": {
+      "origin": "routes/pages/layout.tsx",
+      "displayName": "layout_component",
+      "canonicalFilename": "s_u08asmrvmvc",
+      "hash": "u08aSmrVmvc",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_uGIfwHgHwWQ": {
+      "origin": "components/router-head/router-head.tsx",
+      "displayName": "RouterHead_component",
+      "canonicalFilename": "s_ugifwhghwwq",
+      "hash": "uGIfwHgHwWQ",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_vgNegdacmcE": {
+      "origin": "root.tsx",
+      "displayName": "root_component",
+      "canonicalFilename": "s_vgnegdacmce",
+      "hash": "vgNegdacmcE",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_wl1L0XXRTxI": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "Products_component",
+      "canonicalFilename": "s_wl1l0xxrtxi",
+      "hash": "wl1L0XXRTxI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_wqMvmYv3KC8": {
+      "origin": "routes/pages/products/sku/[sku]/index.tsx",
+      "displayName": "Products_component",
+      "canonicalFilename": "s_wqmvmyv3kc8",
+      "hash": "wqMvmYv3KC8",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_yMFE656dyIQ": {
+      "origin": "components/cart/backup-tsx.tsx",
+      "displayName": "Display_component",
+      "canonicalFilename": "s_ymfe656dyiq",
+      "hash": "yMFE656dyIQ",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_z1nvHyEppoI": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCity_component",
+      "canonicalFilename": "s_z1nvhyeppoi",
+      "hash": "z1nvHyEppoI",
+      "ctxKind": "function",
+      "ctxName": "component$",
+      "captures": false,
+      "parent": null
+    },
+    "s_ON0IfQ0ZafA": {
+      "origin": "components/header/header.tsx",
+      "displayName": "header_component_useStyles",
+      "canonicalFilename": "s_on0ifq0zafa",
+      "hash": "ON0IfQ0ZafA",
+      "ctxKind": "function",
+      "ctxName": "useStyles$",
+      "captures": false,
+      "parent": "s_gfgbsab0fbw"
+    },
+    "s_bbALq32QVGE": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "products_component_useStyles",
+      "canonicalFilename": "s_bbalq32qvge",
+      "hash": "bbALq32QVGE",
+      "ctxKind": "function",
+      "ctxName": "useStyles$",
+      "captures": false,
+      "parent": "s_3cwrkbtB9UI"
+    },
+    "s_gI1RceR4j8k": {
+      "origin": "routes/pages/products/sku/[sku]/index.tsx",
+      "displayName": "_sku__component_useStyles",
+      "canonicalFilename": "s_gi1rcer4j8k",
+      "hash": "gI1RceR4j8k",
+      "ctxKind": "function",
+      "ctxName": "useStyles$",
+      "captures": false,
+      "parent": "s_hqUiiBgUFWw"
+    },
+    "s_hjVZiqtdGRA": {
+      "origin": "components/footer/footer.tsx",
+      "displayName": "footer_component_useStyles",
+      "canonicalFilename": "s_hjvziqtdgra",
+      "hash": "hjVZiqtdGRA",
+      "ctxKind": "function",
+      "ctxName": "useStyles$",
+      "captures": false,
+      "parent": "s_gytQY3Tt2No"
+    },
+    "s_2UJGkkGGm2E": {
+      "origin": "routes/pages/products/sku/[sku]/index.tsx",
+      "displayName": "_sku__component_productDetail_useResource",
+      "canonicalFilename": "s_2ujgkkggm2e",
+      "hash": "2UJGkkGGm2E",
+      "ctxKind": "function",
+      "ctxName": "useResource$",
+      "captures": true,
+      "parent": "s_hqUiiBgUFWw"
+    },
+    "s_AaAlzKH0KlQ": {
+      "origin": "../node_modules/@builder.io/qwik-city/index.qwik.mjs",
+      "displayName": "QwikCity_component_useWatch",
+      "canonicalFilename": "s_aaalzkh0klq",
+      "hash": "AaAlzKH0KlQ",
+      "ctxKind": "function",
+      "ctxName": "useWatch$",
+      "captures": true,
+      "parent": "s_z1nvHyEppoI"
+    },
+    "s_rsTGj1sverI": {
+      "origin": "components/cart/cart.tsx",
+      "displayName": "cart_component_useClientEffect",
+      "canonicalFilename": "s_rstgj1sveri",
+      "hash": "rsTGj1sverI",
+      "ctxKind": "function",
+      "ctxName": "useClientEffect$",
+      "captures": true,
+      "parent": "s_H8FC6wH9sRU"
+    },
+    "s_sf7NSfrEtH0": {
+      "origin": "routes/pages/products/index.tsx",
+      "displayName": "products_component_getProductPage_useResource",
+      "canonicalFilename": "s_sf7nsfreth0",
+      "hash": "sf7NSfrEtH0",
+      "ctxKind": "function",
+      "ctxName": "useResource$",
+      "captures": true,
+      "parent": "s_3cwrkbtB9UI"
+    },
+    "s_u0x6ovGvPlQ": {
+      "origin": "components/menu/menu.tsx",
+      "displayName": "menu_component_useClientEffect",
+      "canonicalFilename": "s_u0x6ovgvplq",
+      "hash": "u0x6ovGvPlQ",
+      "ctxKind": "function",
+      "ctxName": "useClientEffect$",
+      "captures": true,
+      "parent": "s_ZzsY4z095kk"
+    }
+  },
+  "mapping": {
+    "s_0yRBIS4eVf0": "q-441e343c.js",
+    "s_JPn7Nku6XUY": "q-441e343c.js",
+    "s_0qn0UqXuFIA": "q-aedbf045.js",
+    "s_4EzARyMkCeg": "q-6990d83c.js",
+    "s_4XQnc4s3D88": "q-aedbf045.js",
+    "s_EA0ZiG5Amqc": "q-6990d83c.js",
+    "s_FL0TtY3F92s": "q-e6d7084f.js",
+    "s_f5D6szBYxpU": "q-65de8fec.js",
+    "s_hA9UPaY8sNQ": "q-bef2ce5c.js",
+    "s_sBmiu3SsFfI": "q-65de8fec.js",
+    "s_skxgNVWVOT8": "q-bef2ce5c.js",
+    "s_DLwaEirNkmw": "q-aedbf045.js",
+    "s_k7p8Qbb0ZrU": "q-aedbf045.js",
+    "s_uVE5iM9H73c": "q-bef2ce5c.js",
+    "s_3cwrkbtB9UI": "q-84e865d8.js",
+    "s_5mpKg8LO4Yo": "q-0eaff7dd.js",
+    "s_9AkOlFL4o4U": "q-72be4536.js",
+    "s_BtMFHlp6r4g": "q-e6d7084f.js",
+    "s_H8FC6wH9sRU": "q-6990d83c.js",
+    "s_KSbnYirXuGM": "q-9dd68856.js",
+    "s_NXeEGWV2ZjE": "q-eb2e911c.js",
+    "s_OD0SUFJhWBg": "q-e6d7084f.js",
+    "s_Rgv8850Dk0g": "q-aedbf045.js",
+    "s_UuM3FMJ0nKQ": "q-65de8fec.js",
+    "s_ZzsY4z095kk": "q-b003490b.js",
+    "s_crp5PYqmBUM": "q-ddeac184.js",
+    "s_gfgbsab0fbw": "q-dd7c793e.js",
+    "s_gytQY3Tt2No": "q-17cd3d71.js",
+    "s_hqUiiBgUFWw": "q-977ff3d1.js",
+    "s_juzXls7GlsE": "q-b0903583.js",
+    "s_mYsiJcA4IBc": "q-bef2ce5c.js",
+    "s_nd8yk3KO22c": "q-a4d78bf4.js",
+    "s_oqkL64zfQvc": "q-81856050.js",
+    "s_soKes0GhrEY": "q-9b848e68.js",
+    "s_u08aSmrVmvc": "q-72be4536.js",
+    "s_uGIfwHgHwWQ": "q-4e14b483.js",
+    "s_vgNegdacmcE": "q-9e199096.js",
+    "s_wl1L0XXRTxI": "q-b33b5e3e.js",
+    "s_wqMvmYv3KC8": "q-b33b5e3e.js",
+    "s_yMFE656dyIQ": "q-aedbf045.js",
+    "s_z1nvHyEppoI": "q-8631f4a6.js",
+    "s_ON0IfQ0ZafA": "q-dd7c793e.js",
+    "s_bbALq32QVGE": "q-84e865d8.js",
+    "s_gI1RceR4j8k": "q-977ff3d1.js",
+    "s_hjVZiqtdGRA": "q-17cd3d71.js",
+    "s_2UJGkkGGm2E": "q-977ff3d1.js",
+    "s_AaAlzKH0KlQ": "q-8631f4a6.js",
+    "s_rsTGj1sverI": "q-6990d83c.js",
+    "s_sf7NSfrEtH0": "q-84e865d8.js",
+    "s_u0x6ovGvPlQ": "q-b003490b.js"
+  },
+  "bundles": {
+    "q-038c5e25.js": {
+      "size": 10296,
+      "origins": [
+        "\u0000D:/qwik/qwik-app/node_modules/simple-mask-money/lib/simple-mask-money.js?commonjs-module",
+        "\u0000commonjsHelpers.js",
+        "node_modules/simple-mask-money/lib/simple-mask-money.js",
+        "src/components/var/global.tsx"
+      ]
+    },
+    "q-0d7a201e.js": {
+      "size": 112,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-ec0ac220.js"
+      ],
+      "origins": [
+        "@qwik-city-entries"
+      ]
+    },
+    "q-0eaff7dd.js": {
+      "size": 541,
+      "imports": [
+        "q-9e199096.js",
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_menu1.js",
+        "src/s_5mpkg8lo4yo.js"
+      ],
+      "symbols": [
+        "s_5mpKg8LO4Yo"
+      ]
+    },
+    "q-0f61eeb6.js": {
+      "size": 1446,
+      "imports": [
+        "q-038c5e25.js",
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-6990d83c.js",
+        "q-aedbf045.js"
+      ],
+      "origins": [
+        "src/components/cart/cart.tsx"
+      ]
+    },
+    "q-10656f6d.js": {
+      "size": 185,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-72be4536.js"
+      ],
+      "origins": [
+        "src/routes/layout.tsx"
+      ]
+    },
+    "q-12d424de.js": {
+      "size": 570,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-ddeac184.js"
+      ],
+      "origins": [
+        "src/routes/index.tsx"
+      ]
+    },
+    "q-17cd3d71.js": {
+      "size": 4817,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/components/footer/footer.css?used&inline",
+        "src/entry_footer.js",
+        "src/s_gytqy3tt2no.js",
+        "src/s_hjvziqtdgra.js"
+      ],
+      "symbols": [
+        "s_gytQY3Tt2No",
+        "s_hjVZiqtdGRA"
+      ]
+    },
+    "q-2baf4d59.js": {
+      "size": 1317,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-0d7a201e.js",
+        "q-10656f6d.js",
+        "q-12d424de.js",
+        "q-5a67ad6d.js",
+        "q-5e493f0c.js",
+        "q-b75870db.js",
+        "q-bb5ccfbb.js",
+        "q-caa57f96.js",
+        "q-d8955ef6.js",
+        "q-dc9d80b7.js",
+        "q-dd607c78.js",
+        "q-eeff8091.js"
+      ],
+      "origins": [
+        "@qwik-city-plan"
+      ]
+    },
+    "q-441e343c.js": {
+      "size": 169,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_genePagi.js",
+        "src/s_0yrbis4evf0.js",
+        "src/s_jpn7nku6xuy.js"
+      ],
+      "symbols": [
+        "s_0yRBIS4eVf0",
+        "s_JPn7Nku6XUY"
+      ]
+    },
+    "q-4e14b483.js": {
+      "size": 1212,
+      "imports": [
+        "q-9e199096.js",
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_RouterHead.js",
+        "src/s_ugifwhghwwq.js"
+      ],
+      "symbols": [
+        "s_uGIfwHgHwWQ"
+      ]
+    },
+    "q-5a67ad6d.js": {
+      "size": 205,
+      "origins": [
+        "src/routes/pages/menu.md"
+      ]
+    },
+    "q-5e493f0c.js": {
+      "size": 570,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-9b848e68.js"
+      ],
+      "origins": [
+        "src/routes/pages/faqs/index.tsx"
+      ]
+    },
+    "q-65de8fec.js": {
+      "size": 970,
+      "imports": [
+        "q-c8d2fca1.js",
+        "q-dd607c78.js"
+      ],
+      "origins": [
+        "src/entry_ProductPagination.js",
+        "src/s_f5d6szbyxpu.js",
+        "src/s_sbmiu3ssffi.js",
+        "src/s_uum3fmj0nkq.js"
+      ],
+      "symbols": [
+        "s_f5D6szBYxpU",
+        "s_sBmiu3SsFfI",
+        "s_UuM3FMJ0nKQ"
+      ]
+    },
+    "q-6990d83c.js": {
+      "size": 2036,
+      "imports": [
+        "q-038c5e25.js",
+        "q-0f61eeb6.js",
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_cart.js",
+        "src/s_4ezarymkceg.js",
+        "src/s_ea0zig5amqc.js",
+        "src/s_h8fc6wh9sru.js",
+        "src/s_rstgj1sveri.js"
+      ],
+      "symbols": [
+        "s_4EzARyMkCeg",
+        "s_EA0ZiG5Amqc",
+        "s_H8FC6wH9sRU",
+        "s_rsTGj1sverI"
+      ]
+    },
+    "q-72be4536.js": {
+      "size": 518,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-17cd3d71.js",
+        "q-dd7c793e.js"
+      ],
+      "origins": [
+        "src/components/footer/footer.tsx",
+        "src/components/header/header.tsx",
+        "src/entry_layout.js",
+        "src/s_9akolfl4o4u.js",
+        "src/s_u08asmrvmvc.js"
+      ],
+      "symbols": [
+        "s_9AkOlFL4o4U",
+        "s_u08aSmrVmvc"
+      ]
+    },
+    "q-81856050.js": {
+      "size": 608,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_pricing.js",
+        "src/s_oqkl64zfqvc.js"
+      ],
+      "symbols": [
+        "s_oqkL64zfQvc"
+      ]
+    },
+    "q-84e865d8.js": {
+      "size": 2374,
+      "imports": [
+        "q-038c5e25.js",
+        "q-95b642ad.js",
+        "q-c8d2fca1.js",
+        "q-dd607c78.js"
+      ],
+      "origins": [
+        "src/entry_products.js",
+        "src/s_3cwrkbtb9ui.js",
+        "src/s_bbalq32qvge.js",
+        "src/s_sf7nsfreth0.js"
+      ],
+      "symbols": [
+        "s_3cwrkbtB9UI",
+        "s_bbALq32QVGE",
+        "s_sf7NSfrEtH0"
+      ]
+    },
+    "q-8631f4a6.js": {
+      "size": 1421,
+      "imports": [
+        "q-9e199096.js",
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-2baf4d59.js"
+      ],
+      "origins": [
+        "src/entry_QwikCity.js",
+        "src/s_aaalzkh0klq.js",
+        "src/s_z1nvhyeppoi.js"
+      ],
+      "symbols": [
+        "s_AaAlzKH0KlQ",
+        "s_z1nvHyEppoI"
+      ]
+    },
+    "q-92349d85.js": {
+      "size": 58,
+      "imports": [
+        "q-c8d2fca1.js"
+      ]
+    },
+    "q-95b642ad.js": {
+      "size": 2233,
+      "origins": [
+        "src/routes/pages/products/sku/[sku]/cart.css?used&inline"
+      ]
+    },
+    "q-977ff3d1.js": {
+      "size": 4433,
+      "imports": [
+        "q-038c5e25.js",
+        "q-95b642ad.js",
+        "q-9e199096.js",
+        "q-c8d2fca1.js",
+        "q-caa57f96.js"
+      ],
+      "origins": [
+        "src/entry__sku_.js",
+        "src/s_2ujgkkggm2e.js",
+        "src/s_gi1rcer4j8k.js",
+        "src/s_hquiibgufww.js"
+      ],
+      "symbols": [
+        "s_2UJGkkGGm2E",
+        "s_gI1RceR4j8k",
+        "s_hqUiiBgUFWw"
+      ]
+    },
+    "q-9b848e68.js": {
+      "size": 606,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_faqs.js",
+        "src/s_sokes0ghrey.js"
+      ],
+      "symbols": [
+        "s_soKes0GhrEY"
+      ]
+    },
+    "q-9dd68856.js": {
+      "size": 1480,
+      "imports": [
+        "q-c8d2fca1.js",
+        "q-caa57f96.js"
+      ],
+      "origins": [
+        "src/entry_Carousel.js",
+        "src/s_ksbnyirxugm.js"
+      ],
+      "symbols": [
+        "s_KSbnYirXuGM"
+      ]
+    },
+    "q-9e199096.js": {
+      "size": 4611,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-2baf4d59.js",
+        "q-4e14b483.js",
+        "q-8631f4a6.js",
+        "q-a4d78bf4.js",
+        "q-bef2ce5c.js"
+      ],
+      "origins": [
+        "node_modules/@builder.io/qwik-city/index.qwik.mjs",
+        "src/components/router-head/router-head.tsx",
+        "src/entry_root.js",
+        "src/s_vgnegdacmce.js"
+      ],
+      "symbols": [
+        "s_vgNegdacmcE"
+      ]
+    },
+    "q-a4d78bf4.js": {
+      "size": 269,
+      "imports": [
+        "q-9e199096.js",
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_RouterOutlet.js",
+        "src/s_nd8yk3ko22c.js"
+      ],
+      "symbols": [
+        "s_nd8yk3KO22c"
+      ]
+    },
+    "q-aedbf045.js": {
+      "size": 5373,
+      "imports": [
+        "q-038c5e25.js",
+        "q-0f61eeb6.js",
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/components/cart/backup-tsx.tsx",
+        "src/entry_Display.js",
+        "src/s_0qn0uqxufia.js",
+        "src/s_4xqnc4s3d88.js",
+        "src/s_dlwaeirnkmw.js",
+        "src/s_k7p8qbb0zru.js",
+        "src/s_rgv8850dk0g.js",
+        "src/s_ymfe656dyiq.js"
+      ],
+      "symbols": [
+        "s_0qn0UqXuFIA",
+        "s_4XQnc4s3D88",
+        "s_DLwaEirNkmw",
+        "s_k7p8Qbb0ZrU",
+        "s_Rgv8850Dk0g",
+        "s_yMFE656dyIQ"
+      ]
+    },
+    "q-b003490b.js": {
+      "size": 2776,
+      "imports": [
+        "q-038c5e25.js",
+        "q-0f61eeb6.js",
+        "q-9e199096.js",
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-0eaff7dd.js"
+      ],
+      "origins": [
+        "src/components/icons/qwik.tsx",
+        "src/components/menu/menu1.tsx",
+        "src/entry_menu.js",
+        "src/s_u0x6ovgvplq.js",
+        "src/s_zzsy4z095kk.js"
+      ],
+      "symbols": [
+        "s_u0x6ovGvPlQ",
+        "s_ZzsY4z095kk"
+      ]
+    },
+    "q-b0903583.js": {
+      "size": 609,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_features.js",
+        "src/s_juzxls7glse.js"
+      ],
+      "symbols": [
+        "s_juzXls7GlsE"
+      ]
+    },
+    "q-b33b5e3e.js": {
+      "size": 444,
+      "imports": [
+        "q-c8d2fca1.js",
+        "q-caa57f96.js",
+        "q-dd607c78.js"
+      ],
+      "origins": [
+        "src/entry_Products.js",
+        "src/s_wl1l0xxrtxi.js",
+        "src/s_wqmvmyv3kc8.js"
+      ],
+      "symbols": [
+        "s_wl1L0XXRTxI",
+        "s_wqMvmYv3KC8"
+      ]
+    },
+    "q-b75870db.js": {
+      "size": 550,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-b0903583.js"
+      ],
+      "origins": [
+        "src/routes/pages/features/index.tsx"
+      ]
+    },
+    "q-bb5ccfbb.js": {
+      "size": 205,
+      "origins": [
+        "src/routes/menu.md"
+      ]
+    },
+    "q-bef2ce5c.js": {
+      "size": 859,
+      "imports": [
+        "q-9e199096.js",
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_Link.js",
+        "src/s_ha9upay8snq.js",
+        "src/s_mysijca4ibc.js",
+        "src/s_skxgnvwvot8.js",
+        "src/s_uve5im9h73c.js"
+      ],
+      "symbols": [
+        "s_hA9UPaY8sNQ",
+        "s_mYsiJcA4IBc",
+        "s_skxgNVWVOT8",
+        "s_uVE5iM9H73c"
+      ]
+    },
+    "q-c8d2fca1.js": {
+      "size": 44389,
+      "dynamicImports": [
+        "q-9e199096.js"
+      ],
+      "origins": [
+        "\u0000vite/preload-helper",
+        "node_modules/@builder.io/qwik/core.min.mjs",
+        "src/global.css",
+        "src/root.tsx"
+      ]
+    },
+    "q-caa57f96.js": {
+      "size": 1349,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-977ff3d1.js",
+        "q-9dd68856.js",
+        "q-b33b5e3e.js",
+        "q-e6d7084f.js"
+      ],
+      "origins": [
+        "src/routes/pages/products/sku/[sku]/index.tsx"
+      ]
+    },
+    "q-d8955ef6.js": {
+      "size": 549,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-81856050.js"
+      ],
+      "origins": [
+        "src/routes/pages/pricing/index.tsx"
+      ]
+    },
+    "q-dc9d80b7.js": {
+      "size": 185,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-72be4536.js"
+      ],
+      "origins": [
+        "src/routes/pages/layout.tsx"
+      ]
+    },
+    "q-dd607c78.js": {
+      "size": 2003,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-441e343c.js",
+        "q-65de8fec.js",
+        "q-84e865d8.js",
+        "q-b33b5e3e.js",
+        "q-e6d7084f.js"
+      ],
+      "origins": [
+        "src/routes/pages/products/index.tsx"
+      ]
+    },
+    "q-dd7c793e.js": {
+      "size": 1350,
+      "imports": [
+        "q-038c5e25.js",
+        "q-0f61eeb6.js",
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-b003490b.js"
+      ],
+      "origins": [
+        "src/components/header/header.css?used&inline",
+        "src/components/menu/menu.tsx",
+        "src/entry_header.js",
+        "src/s_gfgbsab0fbw.js",
+        "src/s_on0ifq0zafa.js"
+      ],
+      "symbols": [
+        "s_gfgbsab0fbw",
+        "s_ON0IfQ0ZafA"
+      ]
+    },
+    "q-ddeac184.js": {
+      "size": 6714,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_routes.js",
+        "src/s_crp5pyqmbum.js"
+      ],
+      "symbols": [
+        "s_crp5PYqmBUM"
+      ]
+    },
+    "q-e6d7084f.js": {
+      "size": 2651,
+      "imports": [
+        "q-038c5e25.js",
+        "q-0f61eeb6.js",
+        "q-9e199096.js",
+        "q-c8d2fca1.js",
+        "q-caa57f96.js"
+      ],
+      "origins": [
+        "src/entry_ProductPreview.js",
+        "src/s_btmfhlp6r4g.js",
+        "src/s_fl0tty3f92s.js",
+        "src/s_od0sufjhwbg.js"
+      ],
+      "symbols": [
+        "s_BtMFHlp6r4g",
+        "s_FL0TtY3F92s",
+        "s_OD0SUFJhWBg"
+      ]
+    },
+    "q-eb2e911c.js": {
+      "size": 609,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "origins": [
+        "src/entry_about_us.js",
+        "src/s_nxeegwv2zje.js"
+      ],
+      "symbols": [
+        "s_NXeEGWV2ZjE"
+      ]
+    },
+    "q-ec0ac220.js": {
+      "size": 2180,
+      "origins": [
+        "node_modules/@builder.io/qwik-city/service-worker.mjs",
+        "src/routes/service-worker.ts"
+      ]
+    },
+    "q-eeff8091.js": {
+      "size": 550,
+      "imports": [
+        "q-c8d2fca1.js"
+      ],
+      "dynamicImports": [
+        "q-eb2e911c.js"
+      ],
+      "origins": [
+        "src/routes/pages/about-us/index.tsx"
+      ]
+    }
+  },
+  "injections": [
+    {
+      "tag": "style",
+      "location": "head",
+      "attributes": {
+        "data-src": "/build/q-72e01133.css",
+        "dangerouslySetInnerHTML": ".feature-icon-small{width:3rem;height:3rem}.cover-container{max-width:42em}.view{max-width:800px;margin:0 auto;position:relative}@media (max-width: 860px){.header .inner{padding:15px 30px}}@media (max-width: 600px){.header .inner{padding:15px}.header a{margin-right:1em}.header .github{display:none}}.news-view{padding-top:45px}.news-list,.news-list-nav{background-color:#fff;border-radius:2px}.news-list-nav{padding:15px 30px;position:fixed;text-align:center;top:55px;left:0;right:0;z-index:998;box-shadow:0 1px 2px #0000001a}.news-list-nav .page-link{margin:0 1em}.news-list-nav .disabled{color:#aaa}.news-list{position:absolute;margin:30px 0;width:100%}.news-list ul{list-style-type:none;padding:0;margin:0}@media (max-width: 600px){.news-list{margin:10px 0}}.news-item{background-color:#fff;padding:20px 30px 20px 80px;border-bottom:1px solid #eee;position:relative;line-height:20px}.news-item .score{color:#335d92;font-size:1.1em;font-weight:700;position:absolute;top:50%;left:0;width:80px;text-align:center;margin-top:-10px}.news-item .host,.news-item .meta{font-size:.85em;color:#626262}.news-item .host a,.news-item .meta a{color:#626262;text-decoration:underline}.news-item .host a:hover,.news-item .meta a:hover{color:#335d92}.item-view-header{background-color:#fff;padding:1.8em 2em 1em;box-shadow:0 1px 2px #0000001a}.item-view-header h1{display:inline;font-size:1.5em;margin:0 .5em 0 0}.item-view-header .host,.item-view-header .meta,.item-view-header .meta a{color:#626262}.item-view-header .meta a{text-decoration:underline}.item-view-comments{background-color:#fff;margin-top:10px;padding:0 2em .5em}.item-view-comments-header{margin:0;font-size:1.1em;padding:1em 0;position:relative}.item-view-comments-header .spinner{display:inline-block;margin:-15px 0}.comment-children{list-style-type:none;padding:0;margin:0}@media (max-width: 600px){.item-view-header h1{font-size:1.25em}}.comment-children .comment-children{margin-left:1.5em}.comment{border-top:1px solid #eee;position:relative}.comment .by,.comment .text,.comment .toggle{font-size:.9em;margin:1em 0}.comment .by{color:#626262}.comment .by a{color:#626262;text-decoration:underline}.comment .text{overflow-wrap:break-word}.comment .text a:hover{color:#335d92}.comment .text pre{white-space:pre-wrap}.comment .toggle{background-color:#fffbf2;padding:.3em .5em;border-radius:4px}.comment .toggle a{color:#626262;cursor:pointer}.comment .toggle.open{padding:0;background-color:transparent;margin-bottom:-.5em}.user-view{background-color:#fff;box-sizing:border-box;padding:2em 3em}.user-view h1{margin:0;font-size:1.5em}.user-view .meta{list-style-type:none;padding:0}.user-view .label{display:inline-block;min-width:4em}.user-view .about{margin:1em 0}.user-view .links a{text-decoration:underline}\n"
+      }
+    }
+  ],
+  "version": "1",
+  "options": {
+    "target": "client",
+    "buildMode": "production",
+    "forceFullBuild": true,
+    "entryStrategy": {
+      "type": "smart"
+    }
+  },
+  "platform": {
+    "qwik": "0.19.2",
+    "vite": "",
+    "rollup": "2.78.1",
+    "env": "node",
+    "os": "win32",
+    "node": "16.14.2"
+  }
+}
